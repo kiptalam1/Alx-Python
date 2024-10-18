@@ -1,6 +1,6 @@
 # Alx-Python
 Practice exercises for python for data science.
-[View the Jupyter Notebook](Alx-Python/blob/main/visualization.ipynb)
+[View the Jupyter Notebook](https://github.com/kiptalam1/Alx-Python/blob/main/visualization.ipynb)
 
 <div align="center" style=" font-size: 80%; text-align: center; margin: 0 auto">
 <img src="https://raw.githubusercontent.com/Explore-AI/Pictures/master/Python-Notebook-Banners/Exercise.png"  style="display: block; margin-left: auto; margin-right: auto;";/>
